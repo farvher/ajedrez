@@ -1,0 +1,11 @@
+com/ajedrez/AjedrezEnum.class
+com/ajedrez/AbstractFicha.class
+hello/Application.class
+com/ajedrez/Tablero.class
+com/ajedrez/Torre.class
+hello/GreetingController.class
+com/ajedrez/Ficha.class
+hello/Greeting.class
+hello/AjedrezController.class
+com/ajedrez/dto/ResponseDTO.class
+com/ajedrez/Alfil.class
